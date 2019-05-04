@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["myAppointment"],{5919:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("a-table",{attrs:{columns:t.columns,dataSource:t.data,bordered:""}})},c=[],d=[{title:"预约类型",dataIndex:"type"},{title:"预约日期",dataIndex:"date"}],l=[{key:"1",type:"设计",date:"2019-06-01"}],o={name:"Appointment",data:function(){return{data:l,columns:d}}},u=o,r=n("17cc"),p=Object(r["a"])(u,a,c,!1,null,null,null);e["default"]=p.exports}}]);
+//# sourceMappingURL=myAppointment.e39b226e.js.map
